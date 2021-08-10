@@ -4,6 +4,8 @@ UbuntuCE comes pre-configured with web content filtering powered by [CleanBrowsi
 
 As an alternative you can use [OpenDNS FamilyShield](https://www.opendns.com/setupguide/#familyshield) instead. It does a good job of blocking most inappropriate content and comes with a nice "block page" as well.
 
+---
+
 **Open Terminal**
 
 Run `sudo gedit /etc/resolvconf/resolv.conf.d/head`
@@ -23,6 +25,8 @@ Done!
 ---
 
 If you decide that you would like to go back to [CleanBrowsing](https://cleanbrowsing.org/) follow the steps below.
+
+---
 
 **Open Terminal**
 
