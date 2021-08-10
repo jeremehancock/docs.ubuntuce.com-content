@@ -12,4 +12,4 @@ This page will covers items specific to UbuntuCE.
 
 <br/><br/>
 
-![UbuntuCE](https://raw.githubusercontent.com/mhancoc7/docs.ubuntuce.com/main/pages/assets/images/bible-laptop.jpg)
+![UbuntuCE](https://raw.githubusercontent.com/mhancoc7/docs.ubuntuce.com-content/main/pages/assets/images/bible-laptop.jpg)
