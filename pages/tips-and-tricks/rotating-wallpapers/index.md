@@ -6,7 +6,10 @@ If you can't decide which one you like best or if you just want to make your des
 
 Right-Click on the Desktop and select "Change Background...".
 
-From here you can select a specific wallpaper with a small indicator in the bottom right corner. The image below illustrates this.
+From here you can select a specific wallpaper with a small indicator in the bottom right corner. 
+
+
+The image below illustrates this.
 
 Once selected you can close the window and enjoy!
 
