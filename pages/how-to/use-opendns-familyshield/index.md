@@ -26,6 +26,8 @@ Done!
 
 If you decide that you would like to go back to [CleanBrowsing](https://cleanbrowsing.org/) follow the steps below.
 
+<br/>
+
 **Open Terminal**
 
 Run `sudo gedit /etc/resolvconf/resolv.conf.d/head`
