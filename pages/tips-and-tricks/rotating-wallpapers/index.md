@@ -10,6 +10,7 @@ From here you can select a specific wallpaper with a small indicator in the bott
 
 Once selected you can close the window and enjoy!
 
+<br/>
 
 ![Rotating Wallpapers](https://raw.githubusercontent.com/mhancoc7/docs.ubuntuce.com-content/main/pages/assets/images/rotating-wallpaper-select.png)
 
