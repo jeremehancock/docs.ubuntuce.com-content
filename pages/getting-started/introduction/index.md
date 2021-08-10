@@ -10,6 +10,6 @@ Since UbuntuCE is based directly on Ubuntu 20.04 LTS most questions are covered 
 
 This page will covers items specific to UbuntuCE.
 
-<br/><br/>
+<br/>
 
 ![UbuntuCE](https://raw.githubusercontent.com/mhancoc7/docs.ubuntuce.com-content/main/pages/assets/images/bible-laptop.jpg)
