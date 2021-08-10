@@ -24,14 +24,19 @@ Done!
 
 If you decide that you would like to go back to [CleanBrowsing](https://cleanbrowsing.org/) follow the steps below.
 
-* Open Terminal
-	- Run `sudo gedit /etc/resolvconf/resolv.conf.d/head`
-	- Edit the `nameserver` entries to match the following
-	- ```nameserver 185.228.168.168```
-	- ```nameserver 185.228.169.168```
-	- Save the file and close gedit
+**Open Terminal**
+
+Run `sudo gedit /etc/resolvconf/resolv.conf.d/head`
+
+Edit the `nameserver` entries to match the following
+
+```nameserver 185.228.168.168```
+
+```nameserver 185.228.169.168```
+
+Save the file and close gedit.
 	
-* Run `sudo resolvconf -u` in your terminal.
+Run `sudo resolvconf -u` in your terminal.
 
 Done! 
 
