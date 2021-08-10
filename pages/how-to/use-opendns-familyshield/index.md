@@ -1,8 +1,8 @@
 # Use OpenDNS FamilyShield
 
-UbuntuCE comes pre-configured with web content filtering powered by CleanBrowsing. In our tests CleanBrowsing provided better protection. However, one issue that we found was the lack of a "block page" to let the user know whey they can't load the page.
+UbuntuCE comes pre-configured with web content filtering powered by [CleanBrowsing](https://cleanbrowsing.org/). In our tests [CleanBrowsing](https://cleanbrowsing.org/) provided better protection. However, one issue that we found was the lack of a "block page" to let the user know whey they can't load the page.
 
-As an alternative you can use OpenDNS FamilyShield instead. It does a good job of blocking most inappropriate content and comes with a nice "block page" as well.
+As an alternative you can use [OpenDNS FamilyShield](https://www.opendns.com/setupguide/#familyshield) instead. It does a good job of blocking most inappropriate content and comes with a nice "block page" as well.
 
 * Open Terminal
 	- Run `sudo gedit /etc/resolvconf/resolv.conf.d/head`
@@ -17,7 +17,7 @@ Done!
 
 ---
 
-If you decide that you would like to go back to CleanBrowsing follow the steps below.
+If you decide that you would like to go back to [CleanBrowsing](https://cleanbrowsing.org/) follow the steps below.
 
 * Open Terminal
 	- Run `sudo gedit /etc/resolvconf/resolv.conf.d/head`
