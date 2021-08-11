@@ -2,7 +2,7 @@
 
 UbuntuCE utilizes its own repository for the UbuntuCE specific packages.
 
-<br/><br/>
+<br/>
 
 **Including:**
 - [UbuntuCE Welcome](https://github.com/mhancoc7/ubuntu-ce-welcome#readme)
