@@ -1,7 +1,6 @@
 # UbuntuCE Repo
 
 UbuntuCE utilizes its own repository for the UbuntuCE specific packages.
-
 <br/>
 
 **Including:**
