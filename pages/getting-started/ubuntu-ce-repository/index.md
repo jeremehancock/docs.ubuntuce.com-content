@@ -8,6 +8,8 @@ Including:
 - [Host Minder](https://github.com/mhancoc7/hostminder#readme)
 - [WorshipExtreme Presenter](https://github.com/mhancoc7/worship-extreme-presenter#readme)
 
+<br/	>
+
 **Already running Ubuntu? Use the instructions below to setup UbuntuCE.**
 
 ## Add UbuntuCE Repo and Packages
@@ -31,7 +33,6 @@ Including:
 ---
 
 **UbuntuCE also includes packages outside of the UbuntuCE Repo.**
-
 
 ---
 
