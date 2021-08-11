@@ -29,7 +29,7 @@ Including:
 `sudo apt install hostminder ubuntu-ce-wallpapers ubuntu-ce-welcome worship-extreme-presenter`
 
 ---
-#### UbuntuCE also includes packages outside of the UbuntuCE Repo.
+UbuntuCE also includes packages outside of the UbuntuCE Repo.
 ---
 
 ## Add Additional Packages included in UbuntuCE
