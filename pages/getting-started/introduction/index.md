@@ -8,7 +8,9 @@ The goal of UbuntuCE is to bring the power and security of Ubuntu to Christians.
 
 Since UbuntuCE is based directly on Ubuntu 20.04 LTS most questions are covered [here](https://help.ubuntu.com/lts/ubuntu-help/index.html).
 
-This page will covers items specific to UbuntuCE.
+Installation instructions are covered [here](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview).
+
+This site will covers items specific to UbuntuCE.
 
 <br/>
 
