@@ -1,2 +1,1 @@
-# How To 
-<!-- position: 2 -->
+# How To

@@ -1,5 +1,4 @@
 # Rotating Wallpapers
-<!-- position: 1 -->
 
 UbuntuCE comes with a ton of beautiful Christian themed wallpapers.
 

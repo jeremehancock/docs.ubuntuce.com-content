@@ -1,5 +1,4 @@
 # Requirements
-<!-- position: 2 -->
 
 * 2 GHz dual core processor
 * 4 GiB RAM (system memory)

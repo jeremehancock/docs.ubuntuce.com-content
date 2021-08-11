@@ -1,5 +1,4 @@
 # UbuntuCE Repo
-<!-- position: 4 -->
 
 UbuntuCE utilizes its [own repository](https://github.com/mhancoc7/repo.ubuntuce.com) for the UbuntuCE specific packages.
 
