@@ -42,7 +42,7 @@ Done!
 
 ---
 
-***Note: These instructions assume that you haven't made any changes to the network configuration of your UbuntuCE installation.***
+**Note:** *These instructions assume that you haven't made any changes to the network configuration of your UbuntuCE installation.*
 
 
 
