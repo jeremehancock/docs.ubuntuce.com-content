@@ -8,7 +8,7 @@ Including:
 - [Host Minder](https://github.com/mhancoc7/hostminder#readme)
 - [WorshipExtreme Presenter](https://github.com/mhancoc7/worship-extreme-presenter#readme)
 
-<br/	>
+<br/>
 
 **Already running Ubuntu? Use the instructions below to setup UbuntuCE.**
 
