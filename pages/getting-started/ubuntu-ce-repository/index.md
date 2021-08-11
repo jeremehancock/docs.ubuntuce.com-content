@@ -30,7 +30,7 @@ Including:
 
 ---
 
-UbuntuCE also includes packages outside of the UbuntuCE Repo.
+**UbuntuCE also includes packages outside of the UbuntuCE Repo.**
 
 ---
 
