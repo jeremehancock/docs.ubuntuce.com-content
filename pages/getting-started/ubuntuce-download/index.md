@@ -1,5 +1,4 @@
 # Download
-<!-- position: 3 -->
 
 There are two options for downloading UbuntuCE.
 
