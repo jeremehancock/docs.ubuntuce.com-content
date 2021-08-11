@@ -7,4 +7,4 @@
 * Either a CD/DVD drive or a USB port for the installer media
 * Internet access is helpful
 
-**More info [here](https://help.ubuntu.com/community/Installation/SystemRequirements)**
+More info [here](https://help.ubuntu.com/community/Installation/SystemRequirements)
