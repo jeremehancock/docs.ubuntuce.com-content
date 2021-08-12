@@ -25,6 +25,7 @@ Versioning uses a combination of the Ubuntu ISO base that is used to build the r
 - UbuntuCE Wallpapers
 - Host Minder
 - WorshipExtreme Presenter
+- CrossWire PPA
 - Xiphos
 - Sword Text WEB
 - Sword Text KJV
@@ -40,5 +41,6 @@ Versioning uses a combination of the Ubuntu ISO base that is used to build the r
 	+ Xiphos
 	+ OpenLP
 	+ WorshipExtreme Presenter
+- Set UbuntuCE Welcome to launch on startup
 - Configured Default wallpaper to `/usr/share/backgrounds/ubuntu-ce-1.jpg`
 - Configured [OpenDNS FamilyShield](https://www.opendns.com/setupguide/#familyshield) via resolvconf
