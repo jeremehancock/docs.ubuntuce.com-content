@@ -1,6 +1,6 @@
 # Changelog
 
-Versioning using a combination of the Ubuntu ISO base that is used to build the release with the date of the build followed by a number. The trailing number is used if there is more than one build on the same day.
+Versioning uses a combination of the Ubuntu ISO base that is used to build the release and the date of the build followed by a number. The trailing number is used if there is more than one build on the same day.
 
 ## [20.04.2-2021.08.10.0] - 2021-08-10
 ### Changed
