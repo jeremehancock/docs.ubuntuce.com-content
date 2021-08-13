@@ -14,4 +14,4 @@ This site will covers items specific to UbuntuCE.
 
 <br/>
 
-![UbuntuCE](https://raw.githubusercontent.com/mhancoc7/docs.ubuntuce.com-content/main/pages/assets/images/bible-laptop.jpg)
+![UbuntuCE](https://raw.githubusercontent.com/jeremehancock/docs.ubuntuce.com-content/main/pages/assets/images/bible-laptop.jpg)

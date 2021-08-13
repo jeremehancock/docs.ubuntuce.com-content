@@ -14,5 +14,5 @@ Once selected you can close the window and enjoy!
 
 <br/>
 
-![Rotating Wallpapers](https://raw.githubusercontent.com/mhancoc7/docs.ubuntuce.com-content/main/pages/assets/images/rotating-wallpaper-select.png)
+![Rotating Wallpapers](https://raw.githubusercontent.com/jeremehancock/docs.ubuntuce.com-content/main/pages/assets/images/rotating-wallpaper-select.png)
 
