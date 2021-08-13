@@ -1,12 +1,12 @@
 # Repository
 
-UbuntuCE utilizes its [own repository](https://github.com/mhancoc7/repo.ubuntuce.com) for the UbuntuCE specific packages.
+UbuntuCE utilizes its [own repository](https://github.com/jeremehancock/repo.ubuntuce.com) for the UbuntuCE specific packages.
 
 **Including:**
-- [UbuntuCE Welcome](https://github.com/mhancoc7/ubuntu-ce-welcome#readme)
-- [UbuntuCE Wallpapers](https://github.com/mhancoc7/ubuntu-ce-wallpapers#readme)
-- [Host Minder](https://github.com/mhancoc7/hostminder#readme)
-- [WorshipExtreme Presenter](https://github.com/mhancoc7/worship-extreme-presenter#readme)
+- [UbuntuCE Welcome](https://github.com/jeremehancock/ubuntu-ce-welcome#readme)
+- [UbuntuCE Wallpapers](https://github.com/jeremehancock/ubuntu-ce-wallpapers#readme)
+- [Host Minder](https://github.com/jeremehancock/hostminder#readme)
+- [WorshipExtreme Presenter](https://github.com/jeremehancock/worship-extreme-presenter#readme)
 
 <br/>
 
