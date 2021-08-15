@@ -6,5 +6,5 @@ There are two options for downloading UbuntuCE.
 
 <br/>
 
-
+<br/>
 **Note:** *If you are unsure Direct Download is probably the one you want.*
