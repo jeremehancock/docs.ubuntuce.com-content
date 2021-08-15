@@ -12,6 +12,7 @@ Since UbuntuCE is based directly on Ubuntu 20.04 LTS most questions are covered 
 
 ###[Try before you install](https://ubuntu.com/tutorials/try-ubuntu-before-you-install)  
 
+
 <br/>
 
 ![UbuntuCE](https://raw.githubusercontent.com/jeremehancock/docs.ubuntuce.com-content/main/pages/assets/images/bible-laptop.jpg)
