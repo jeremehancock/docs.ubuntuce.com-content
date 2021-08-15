@@ -6,6 +6,7 @@ As an alternative you can use [OpenDNS FamilyShield](https://www.opendns.com/set
 
 ---
 
+
 If you want to switch to [OpenDNS FamilyShield](https://www.opendns.com/setupguide/#familyshield) follow the steps below.
 
 **Open Terminal**
