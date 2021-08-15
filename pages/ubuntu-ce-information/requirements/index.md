@@ -1,6 +1,6 @@
 # Requirements
 
-- [x] 2 GHz dual core processor or better
+* [x] 2 GHz dual core processor or better
 - [x] 4 GB system memory
 - [x] 25 GB of free hard drive space
 - [x] Internet access is helpful
