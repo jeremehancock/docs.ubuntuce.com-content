@@ -10,7 +10,6 @@ UbuntuCE utilizes its [own repository](https://github.com/jeremehancock/repo.ubu
 
 ---
 
-
 **Already running Ubuntu? Use the instructions below to setup UbuntuCE.**
 
 ## Add UbuntuCE Repo and Packages
