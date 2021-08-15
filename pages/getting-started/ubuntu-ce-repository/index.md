@@ -9,6 +9,7 @@ UbuntuCE utilizes its [own repository](https://github.com/jeremehancock/repo.ubu
 - [WorshipExtreme Presenter](https://github.com/jeremehancock/worship-extreme-presenter#readme)
 
 ---
+test
 
 **Already running Ubuntu? Use the instructions below to setup UbuntuCE.**
 
