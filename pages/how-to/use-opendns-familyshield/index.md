@@ -31,6 +31,7 @@ Done!
 
 ---
 
+
 **Open Terminal**
 
 Run `sudo gedit /etc/resolvconf/resolv.conf.d/head`
