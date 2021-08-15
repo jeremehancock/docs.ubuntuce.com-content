@@ -70,5 +70,7 @@ UbuntuCE utilizes its [own repository](https://github.com/jeremehancock/repo.ubu
 
 `sudo resolvconf -u`
 
+---
+
 **Note:** *Setting up CleanBrowsing will be making changes to your system's network settings. These instructions assume that you haven't made any changes to the network configuration of your Ubuntu installation.* 
 
