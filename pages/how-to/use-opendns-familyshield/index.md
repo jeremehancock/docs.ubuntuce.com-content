@@ -5,7 +5,7 @@ UbuntuCE comes pre-configured with web content filtering powered by [CleanBrowsi
 As an alternative you can use [OpenDNS FamilyShield](https://www.opendns.com/setupguide/#familyshield) instead. It does a good job of blocking most inappropriate content and comes with a nice "block page" as well.
 
 ---
-<br/>
+
 If you want to switch to [OpenDNS FamilyShield](https://www.opendns.com/setupguide/#familyshield) follow the steps below.
 
 **Open Terminal**
