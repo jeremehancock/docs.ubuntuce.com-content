@@ -34,7 +34,7 @@ UbuntuCE utilizes its [own repository](https://github.com/jeremehancock/repo.ubu
 
 ---
 
-**UbuntuCE also includes packages outside of the UbuntuCE Repo.**
+**UbuntuCE also includes packages outside the UbuntuCE Repo. Use the instructions below to add these packages and configurations.**
 
 ---
 
