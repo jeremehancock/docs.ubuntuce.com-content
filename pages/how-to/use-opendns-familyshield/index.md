@@ -7,6 +7,8 @@ As an alternative you can use [OpenDNS FamilyShield](https://www.opendns.com/set
 ---
 **If you want to switch to [OpenDNS FamilyShield](https://www.opendns.com/setupguide/#familyshield) follow the steps below.**
 
+---
+
 **Open Terminal**
 
 Run `sudo gedit /etc/resolvconf/resolv.conf.d/head`
@@ -25,7 +27,9 @@ Done!
 
 ---
 
-If you decide that you would like to go back to [CleanBrowsing](https://cleanbrowsing.org/) follow the steps below.
+**If you decide that you would like to go back to [CleanBrowsing](https://cleanbrowsing.org/) follow the steps below.**
+
+---
 
 **Open Terminal**
 
