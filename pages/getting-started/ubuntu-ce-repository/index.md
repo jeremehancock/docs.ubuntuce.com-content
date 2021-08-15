@@ -8,6 +8,8 @@ UbuntuCE utilizes its [own repository](https://github.com/jeremehancock/repo.ubu
 - [Host Minder](https://github.com/jeremehancock/hostminder#readme)
 - [WorshipExtreme Presenter](https://github.com/jeremehancock/worship-extreme-presenter#readme)
 
+---
+
 **Already running Ubuntu? Use the instructions below to setup UbuntuCE.**
 
 ## Add UbuntuCE Repo and Packages
