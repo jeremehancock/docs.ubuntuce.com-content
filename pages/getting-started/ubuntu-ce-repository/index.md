@@ -2,7 +2,7 @@
 
 UbuntuCE utilizes its [own repository](https://github.com/jeremehancock/repo.ubuntuce.com) for the UbuntuCE specific packages.
 
-###Including:
+### Including:
 - [UbuntuCE Welcome](https://github.com/jeremehancock/ubuntu-ce-welcome#readme)
 - [UbuntuCE Wallpapers](https://github.com/jeremehancock/ubuntu-ce-wallpapers#readme)
 - [Host Minder](https://github.com/jeremehancock/hostminder#readme)

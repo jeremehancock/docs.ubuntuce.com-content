@@ -8,7 +8,7 @@ The goal of UbuntuCE is to bring the power and security of Ubuntu to Christians.
 
 This site covers UbuntuCE specific options. For general questions on Ubuntu checkout the **[Ubuntu Desktop Guide](https://help.ubuntu.com/lts/ubuntu-help/index.html)**.
 
-###[Installation Guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview)  -- [Try before you install](https://ubuntu.com/tutorials/try-ubuntu-before-you-install)  
+### [Installation Guide](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview)  -- [Try before you install](https://ubuntu.com/tutorials/try-ubuntu-before-you-install)  
 
 <br/>
 
