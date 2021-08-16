@@ -2,6 +2,11 @@
 
 Versioning uses a combination of the Ubuntu ISO base that is used to build the release and the date of the build followed by a number. The trailing number is used if there is more than one build on the same day.
 
+## [20.04.2-2021.08.16.0] - 2021-08-16
+### <span style="color: black;">Changed</span>
+- Updated to include the latest version of Host Minder
+- Host Minder now has a default weekly auto updater
+
 ## [20.04.2-2021.08.10.0] - 2021-08-10
 ### <span style="color: black;">Changed</span>
 - Updated UbuntuCE Welcome with UbuntuCE Docs button and Patreon button
