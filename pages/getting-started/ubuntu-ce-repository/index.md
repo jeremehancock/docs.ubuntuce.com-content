@@ -5,6 +5,7 @@ UbuntuCE utilizes its [own repository](https://github.com/jeremehancock/repo.ubu
 ### Including:
 - [UbuntuCE Welcome](https://github.com/jeremehancock/ubuntu-ce-welcome#readme)
 - [UbuntuCE Wallpapers](https://github.com/jeremehancock/ubuntu-ce-wallpapers#readme)
+- [DNS Minder](https://github.com/jeremehancock/dnsminder#readme)
 - [Host Minder](https://github.com/jeremehancock/hostminder#readme)
 - [WorshipExtreme Presenter](https://github.com/jeremehancock/worship-extreme-presenter#readme)
 
@@ -30,7 +31,7 @@ UbuntuCE utilizes its [own repository](https://github.com/jeremehancock/repo.ubu
 
 **Install UbuntuCE Packages**
 
-`sudo apt install hostminder ubuntu-ce-wallpapers ubuntu-ce-welcome worship-extreme-presenter`
+`sudo apt install dnsminder hostminder ubuntu-ce-wallpapers ubuntu-ce-welcome worship-extreme-presenter`
 
 ---
 
@@ -58,19 +59,12 @@ UbuntuCE utilizes its [own repository](https://github.com/jeremehancock/repo.ubu
 
 `sudo apt install xiphos bibletime sword-text-web sword-text-kjv bibledit bibledit-desktop python3-distutils openlp`
 
-**Setup CleanBrowsing**
+**Setup CleanBrowsing or OpenDNS FamilyShield**
 
-`sudo apt install resolvconf`
+DNS Minder allows you to enable [CleanBrowsing](https://cleanbrowsing.org/) or [OpenDNS FamilyShield](https://www.opendns.com/setupguide/#familyshield).
 
-`sudo systemctl enable --now resolvconf.service`
+![DNS Minder](https://raw.githubusercontent.com/jeremehancock/docs.ubuntuce.com-content/main/pages/assets/images/dnsminder-window.png)
 
-`sudo echo "nameserver 185.228.168.168" >> /etc/resolvconf/resolv.conf.d/head`
-
-`sudo echo "nameserver 185.228.169.168" >> /etc/resolvconf/resolv.conf.d/head`
-
-`sudo resolvconf -u`
-
----
 
 **Note:** *Setting up CleanBrowsing will be making changes to your system's network settings. These instructions assume that you haven't made any changes to the network configuration of your Ubuntu installation.* 
 
