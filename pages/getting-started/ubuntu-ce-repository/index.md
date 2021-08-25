@@ -33,6 +33,12 @@ UbuntuCE utilizes its [own repository](https://github.com/jeremehancock/repo.ubu
 
 `sudo apt install dnsminder hostminder ubuntu-ce-wallpapers ubuntu-ce-welcome worship-extreme-presenter`
 
+**Setup CleanBrowsing or OpenDNS FamilyShield**
+
+DNS Minder allows you to enable [CleanBrowsing](https://cleanbrowsing.org/) or [OpenDNS FamilyShield](https://www.opendns.com/setupguide/#familyshield).
+
+![DNS Minder](https://raw.githubusercontent.com/jeremehancock/docs.ubuntuce.com-content/main/pages/assets/images/dnsminder-window.png)
+
 ---
 
 **UbuntuCE also includes packages outside the UbuntuCE Repo. Use the instructions below to add these packages.**
@@ -58,13 +64,4 @@ UbuntuCE utilizes its [own repository](https://github.com/jeremehancock/repo.ubu
 **Install Xiphos, BibleTime, Bibledit, Bibledit-Desktop, Sword WEB, Sword KJC, OpenLP**
 
 `sudo apt install xiphos bibletime sword-text-web sword-text-kjv bibledit bibledit-desktop python3-distutils openlp`
-
-**Setup CleanBrowsing or OpenDNS FamilyShield**
-
-DNS Minder allows you to enable [CleanBrowsing](https://cleanbrowsing.org/) or [OpenDNS FamilyShield](https://www.opendns.com/setupguide/#familyshield).
-
-![DNS Minder](https://raw.githubusercontent.com/jeremehancock/docs.ubuntuce.com-content/main/pages/assets/images/dnsminder-window.png)
-
-
-**Note:** *Setting up CleanBrowsing will be making changes to your system's network settings. These instructions assume that you haven't made any changes to the network configuration of your Ubuntu installation.* 
 
