@@ -11,7 +11,7 @@ As an alternative you can use [1.1.1.1 for Families](https://blog.cloudflare.com
 
 DNS Minder allows you to enable [CleanBrowsing](https://cleanbrowsing.org/), [OpenDNS FamilyShield](https://www.opendns.com/setupguide/#familyshield) or [1.1.1.1 for Families](https://blog.cloudflare.com/introducing-1-1-1-1-for-families/).
 
-![DNS Minder](https://raw.githubusercontent.com/jeremehancock/docs.ubuntuce.com-content/main/pages/assets/images/dnsminder-window.png)
+![DNS Minder](https://raw.githubusercontent.com/jeremehancock/docs.ubuntuce.com-content/main/pages/assets/images/dnsminder-window-cloudflare.png)
 
 
 
