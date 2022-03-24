@@ -2,10 +2,16 @@
 
 Versioning uses a combination of the Ubuntu ISO base that is used to build the release and the date of the build followed by a number. The trailing number is used if there is more than one build on the same day.
 
+## [20.04.4-2022.03.24.0] - 2022-03-24
+### <span style="color: black;">Changed</span>
+- Updated DNS Minder to latest version
+- Updated using the latest Ubuntu LTS base
+
 ## [20.04.3-2021.08.24.0] - 2021-08-24
 ### <span style="color: black;">Changed</span>
 - Host Minder now includes an Allow List
 - Updated UbuntuCE Welcome with tabbed layout
+- Updated using the latest Ubuntu LTS base
 
 ### <span style="color: black;">Added</span>
 - Added DNS Minder
