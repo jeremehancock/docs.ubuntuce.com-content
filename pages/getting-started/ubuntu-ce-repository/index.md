@@ -13,9 +13,9 @@ UbuntuCE utilizes its [own repository](https://github.com/jeremehancock/repo.ubu
 
 **Already running Ubuntu 22.04? Use the instructions below to setup UbuntuCE.**
 
-> **Note:** 
-> *UbuntuCE only supports the latest LTS.* 
-> *So you will need to be running Ubuntu 22.04 in order to use the UbuntuCE Repo.*
+**Note:** *UbuntuCE only supports the latest LTS.* 
+
+*So you will need to be running Ubuntu 22.04 in order to use the UbuntuCE Repo.*
 
 ---
 
