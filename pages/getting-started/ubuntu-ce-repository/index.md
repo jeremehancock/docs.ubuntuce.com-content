@@ -1,6 +1,6 @@
 # Repository
 
-UbuntuCE utilizes its [own repository](https://github.com/jeremehancock/repo.ubuntuce.com) for the UbuntuCE specific packages.
+UbuntuCE utilizes its own repository for the UbuntuCE specific packages.
 
 ### Including:
 - [UbuntuCE Welcome](https://github.com/jeremehancock/ubuntu-ce-welcome#readme)
