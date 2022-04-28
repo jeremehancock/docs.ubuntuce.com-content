@@ -7,11 +7,13 @@ UbuntuCE utilizes its [own repository](https://github.com/jeremehancock/repo.ubu
 - [UbuntuCE Wallpapers](https://github.com/jeremehancock/ubuntu-ce-wallpapers#readme)
 - [DNS Minder](https://github.com/jeremehancock/dnsminder#readme)
 - [Host Minder](https://github.com/jeremehancock/hostminder#readme)
-- [WorshipExtreme Presenter](https://github.com/jeremehancock/worship-extreme-presenter#readme)
+- [Presenter by WorshipTools](https://github.com/jeremehancock/presenter-by-worship-tools#readme)
 
 --- 
 
-**Already running Ubuntu? Use the instructions below to setup UbuntuCE.**
+**Already running Ubuntu 22.04? Use the instructions below to setup UbuntuCE.**
+
+#### *Note: UbuntuCE only supports the latest LTS. So you will need to be running Ubuntu 22.04 in order to use the UbuntuCE Repo.*
 
 ---
 
@@ -19,11 +21,11 @@ UbuntuCE utilizes its [own repository](https://github.com/jeremehancock/repo.ubu
 
 **Add UbuntuCE Repo Key**
 
-`curl -s --compressed "https://repo.ubuntuce.com/KEY.gpg" | sudo apt-key add -`
+`wget https://job.ubuntuce.com/KEY.gpg && gpg --output ubuntuce.gpg --dearmor KEY.gpg && sudo mv ubuntuce.gpg /usr/share/keyrings/ && rm KEY.gpg`
 
 **Add UbuntuCE Repo**
 
-`sudo curl -s --compressed -o /etc/apt/sources.list.d/ubuntuce.list "https://repo.ubuntuce.com/ubuntuce.list"`
+`sudo apt install curl -y && sudo curl -s --compressed -o /etc/apt/sources.list.d/ubuntuce-jammy.list "https://job.ubuntuce.com/ubuntuce-jammy.list"`
 
 **Update Packages**
 
@@ -31,13 +33,13 @@ UbuntuCE utilizes its [own repository](https://github.com/jeremehancock/repo.ubu
 
 **Install UbuntuCE Packages**
 
-`sudo apt install dnsminder hostminder ubuntu-ce-wallpapers ubuntu-ce-welcome worship-extreme-presenter`
+`sudo apt install dnsminder hostminder ubuntu-ce-wallpapers ubuntu-ce-welcome presenter-by-worship-tools`
 
 **Setup CleanBrowsing or OpenDNS FamilyShield**
 
-DNS Minder allows you to enable [CleanBrowsing](https://cleanbrowsing.org/), [OpenDNS FamilyShield](https://www.opendns.com/setupguide/#familyshield) or [1.1.1.1 for Families](https://blog.cloudflare.com/introducing-1-1-1-1-for-families/).
+DNS Minder allows you to enable [CleanBrowsing](https://cleanbrowsing.org/), [OpenDNS FamilyShield](https://www.opendns.com/setupguide/#familyshield) , [1.1.1.1 for Families](https://blog.cloudflare.com/introducing-1-1-1-1-for-families/), or [AdGuard Family DNS](https://adguard-dns.io/en/public-dns.html).
 
-![DNS Minder](https://raw.githubusercontent.com/jeremehancock/docs.ubuntuce.com-content/main/pages/assets/images/dnsminder-window.png)
+![DNS Minder](https://raw.githubusercontent.com/jeremehancock/docs.ubuntuce.com-content/main/pages/assets/images/dnsminder-job.png)
 
 ---
 
@@ -49,19 +51,16 @@ DNS Minder allows you to enable [CleanBrowsing](https://cleanbrowsing.org/), [Op
 
 **Enable Universe/Multiverse Repos**
 
-`sudo add-apt-repository universe`
+`sudo add-apt-repository universe && sudo add-apt-repository multiverse`
 
-`sudo add-apt-repository multiverse`
+**Install Xiphos, BibleTime, Bibledit, Bible-KJV, Sword WEB, Sword KJC, and OpenLP**
 
-**Add CrossWire PPA**
+`sudo apt install xiphos bibletime sword-text-web sword-text-kjv bibledit python3-distutils default-jre libreoffice-java-common openlp bible-kjv`
 
-`sudo add-apt-repository ppa:pkgcrosswire/ppa`
+**Install Flatpak**
 
-**Update Packages**
+`sudo apt install flatpak && sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo`
 
-`sudo apt update`
+**Install Bolls Bible, Floodlight Presenter, and Son of Man**
 
-**Install Xiphos, BibleTime, Bibledit, Bibledit-Desktop, Sword WEB, Sword KJC, OpenLP**
-
-`sudo apt install xiphos bibletime sword-text-web sword-text-kjv bibledit bibledit-desktop python3-distutils openlp`
-
+`sudo flatpak install flathub life.bolls.bolls io.gitlab.floodlight.Presenter org.hlwd.sonofman`

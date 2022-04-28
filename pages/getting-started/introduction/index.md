@@ -1,6 +1,6 @@
 # Introduction
 
-Ubuntu Christian Edition ([UbuntuCE](https://ubuntuce.com)) is a free, open source operating system geared towards Christians. It is based on [Ubuntu 20.04 LTS](https://ubuntu.com/download/desktop).
+Ubuntu Christian Edition ([UbuntuCE](https://ubuntuce.com)) is a free, open source operating system geared towards Christians. It is based on [Ubuntu 22.04 LTS](https://ubuntu.com/download/desktop).
 
 Ubuntu is a complete Linux-based operating system, freely available with both community and professional support.
 
