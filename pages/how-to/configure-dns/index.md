@@ -2,6 +2,7 @@
 
 UbuntuCE comes pre-configured with web content filtering powered by [CleanBrowsing](https://cleanbrowsing.org/).
 
+
 In our tests [CleanBrowsing](https://cleanbrowsing.org/) provided the best protection.
 
 ---
