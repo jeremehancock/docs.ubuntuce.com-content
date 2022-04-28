@@ -1,6 +1,6 @@
 # License
 
-All software developed by the UbuntuCE team under the MIT License.
+All software developed by the UbuntuCE team falls under the MIT License.
 
 MIT License
 
@@ -25,3 +25,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 For all other Ubuntu licenses please refer to the Ubuntu [Terms and Polices](https://ubuntu.com/legal/terms-and-policies) page.
+
+UbuntuCE also includes 3rd Party software packages. Please refer to their documentation for licensing questions.
