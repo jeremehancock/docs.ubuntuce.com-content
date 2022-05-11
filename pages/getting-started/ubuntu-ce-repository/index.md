@@ -37,7 +37,7 @@ UbuntuCE utilizes its own repository for the UbuntuCE specific packages.
 
 `sudo apt install dnsminder hostminder ubuntu-ce-wallpapers ubuntu-ce-welcome presenter-by-worship-tools`
 
-**Setup CleanBrowsing or OpenDNS FamilyShield**
+**Setup Web Content Filtering**
 
 DNS Minder allows you to enable [CleanBrowsing](https://cleanbrowsing.org/), [OpenDNS FamilyShield](https://www.opendns.com/setupguide/#familyshield) , [1.1.1.1 for Families](https://blog.cloudflare.com/introducing-1-1-1-1-for-families/), or [AdGuard Family DNS](https://adguard-dns.io/en/public-dns.html).
 
