@@ -14,4 +14,4 @@ For general questions on Ubuntu checkout the following guides.
 
 <br/>
 
-![UbuntuCE](https://raw.githubusercontent.com/jeremehancock/docs.ubuntuce.com-content/main/pages/assets/images/bible-laptop.jpg)
+![UbuntuCE](https://raw.githubusercontent.com/jeremehancock/docs.ubuntuce.com-content/main/pages/assets/images/welcome-to-ubuntuce.png)
