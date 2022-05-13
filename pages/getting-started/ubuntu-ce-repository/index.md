@@ -7,7 +7,9 @@ UbuntuCE utilizes its own repository for the UbuntuCE specific packages.
 - [UbuntuCE Wallpapers](https://github.com/jeremehancock/ubuntu-ce-wallpapers#readme)
 - [DNS Minder](https://github.com/jeremehancock/dnsminder#readme)
 - [Host Minder](https://github.com/jeremehancock/hostminder#readme)
+- [Parental Controls](https://github.com/jeremehancock/ubuntu-ce-parental-controls#readme)
 - [Presenter by WorshipTools](https://github.com/jeremehancock/presenter-by-worship-tools#readme)
+- [FreeShow](https://freeshow.app)
 
 --- 
 
@@ -35,7 +37,7 @@ UbuntuCE utilizes its own repository for the UbuntuCE specific packages.
 
 **Install UbuntuCE Packages**
 
-`sudo apt install dnsminder hostminder ubuntu-ce-wallpapers ubuntu-ce-welcome presenter-by-worship-tools`
+`sudo apt install dnsminder hostminder ubuntu-ce-parental-controls ubuntu-ce-wallpapers ubuntu-ce-welcome presenter-by-worship-tools freeshow`
 
 **Setup Web Content Filtering**
 
@@ -55,9 +57,9 @@ DNS Minder allows you to enable [CleanBrowsing](https://cleanbrowsing.org/), [Op
 
 `sudo add-apt-repository universe && sudo add-apt-repository multiverse`
 
-**Install Xiphos, BibleTime, Bibledit, Bible-KJV, Sword WEB, Sword KJC, and OpenLP**
+**Install Xiphos, BibleTime, Bibledit, Bible-KJV, Sword WEB, Sword KJC, OpenLP, and Timekpr-nExT**
 
-`sudo apt install xiphos bibletime sword-text-web sword-text-kjv bibledit python3-distutils default-jre libreoffice-java-common openlp bible-kjv`
+`sudo apt install xiphos bibletime sword-text-web sword-text-kjv bibledit python3-distutils default-jre libreoffice-java-common openlp bible-kjv timekpr-next`
 
 **Install Flatpak**
 

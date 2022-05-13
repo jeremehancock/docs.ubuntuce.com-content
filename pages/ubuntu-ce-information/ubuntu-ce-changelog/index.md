@@ -1,18 +1,34 @@
 # Changelog
 
 Versioning uses a combination of the Ubuntu ISO base that is used to build the release and the date of the build followed by a number. The trailing number is used if there is more than one build on the same day.
+
+## [22.04.0-2022.05.12.0] - 2022-05-12
+### <span style="color: black;">Changed</span>
+- Updated all UbuntuCE apps to the latest versions
+- Fixed dark mode wallpaper bug
+
+### <span style="color: black;">Added</span>
+- Added [Parental Controls](https://github.com/jeremehancock/ubuntu-ce-parental-controls)
+- Added [Timekpr-nExT](https://mjasnik.gitlab.io/timekpr-next/)
+- Added [FreeShow](https://freeshow.app)
+- Added customized UbuntuCE installer (English Only)
+- Added UbuntuCE branding to the Settings
+- Added [UbuntuCE Plymouth Theme](https://github.com/jeremehancock/ubuntu-ce-plymouth-theme) as default
+- Added UbuntuCE branding to the login screen
+- Added neofetch
+- Added `.bash_aliases` file to launch neofetch when terminal is launched
+
 ## [22.04.0-2022.04.26.0] - 2022-04-26
 ### <span style="color: black;">Changed</span>
 - Initial Ubuntu 22.04 Release
 - Updated Presenter by WorshipTools to pull AppImage down on first launch
 - Updated UbuntuCE Welcome app to include Software tab
-- 
+
 ### <span style="color: black;">Added</span>
 - Added Son of Man app
 - Added Floodlight Presenter app
 - Added Bolls Bible app
 - Added AdGuard Family DNS to DNS Minder
-
 
 ## [20.04.4-2022.03.24.0] - 2022-03-24
 ### <span style="color: black;">Changed</span>
