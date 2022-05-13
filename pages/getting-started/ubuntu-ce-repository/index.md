@@ -65,7 +65,7 @@ DNS Minder allows you to enable [CleanBrowsing](https://cleanbrowsing.org/), [Op
 
 **Enable Universe/Multiverse Repos**
 
-`sudo add-apt-repository universe && sudo add-apt-repository multiverse`
+`sudo add-apt-repository universe -y && sudo add-apt-repository multiverse -y`
 
 **Install Xiphos, BibleTime, Bibledit, Bible-KJV, Sword WEB, Sword KJC, OpenLP, and Timekpr-nExT**
 
