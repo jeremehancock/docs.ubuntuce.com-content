@@ -47,7 +47,7 @@ DNS Minder allows you to enable [CleanBrowsing](https://cleanbrowsing.org/), [Op
 
 **Configure UbuntuCE Plymouth Theme**
 
-`git clone https://github.com/jeremehancock/ubuntu-ce-plymouth-theme.git && cd ubuntu-ce-plymouth-theme && sudo cp -R ubuntuce /usr/share/plymouth/themes/ && sudo update-alternatives --config default.plymouth && sudo update-initramfs -uk all && cd .. && rm -rf ubuntu-ce-plymouth-theme`
+`sudo apt install git -y && git clone https://github.com/jeremehancock/ubuntu-ce-plymouth-theme.git && cd ubuntu-ce-plymouth-theme && sudo cp -R ubuntuce /usr/share/plymouth/themes/ && sudo update-alternatives --install "/usr/share/plymouth/themes/default.plymouth" "default.plymouth" "/usr/share/plymouth/themes/ubuntuce/ubuntuce.plymouth" 160 && sudo update-alternatives --auto default.plymouth && sudo update-alternatives --config default.plymouth && sudo update-initramfs -uk all && cd .. && rm -rf ubuntu-ce-plymouth-theme`
 
 **Configure UbuntuCE Login Branding**
 
