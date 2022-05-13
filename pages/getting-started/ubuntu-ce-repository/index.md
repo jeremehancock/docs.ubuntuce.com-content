@@ -37,7 +37,7 @@ UbuntuCE utilizes its own repository for the UbuntuCE specific packages.
 
 **Install UbuntuCE Packages**
 
-`sudo apt install dnsminder hostminder ubuntu-ce-parental-controls ubuntu-ce-wallpapers ubuntu-ce-welcome presenter-by-worship-tools freeshow`
+`sudo apt install dnsminder hostminder ubuntu-ce-parental-controls ubuntu-ce-wallpapers ubuntu-ce-welcome presenter-by-worship-tools freeshow -y`
 
 **Setup Web Content Filtering**
 
@@ -69,7 +69,7 @@ DNS Minder allows you to enable [CleanBrowsing](https://cleanbrowsing.org/), [Op
 
 **Install Xiphos, BibleTime, Bibledit, Bible-KJV, Sword WEB, Sword KJC, OpenLP, and Timekpr-nExT**
 
-`sudo apt install xiphos bibletime sword-text-web sword-text-kjv bibledit python3-distutils default-jre libreoffice-java-common openlp bible-kjv timekpr-next`
+`sudo apt install xiphos bibletime sword-text-web sword-text-kjv bibledit python3-distutils default-jre libreoffice-java-common openlp bible-kjv timekpr-next -y`
 
 **Install Flatpak**
 
@@ -77,4 +77,4 @@ DNS Minder allows you to enable [CleanBrowsing](https://cleanbrowsing.org/), [Op
 
 **Install Bolls Bible, Floodlight Presenter, and Son of Man**
 
-`sudo flatpak install flathub life.bolls.bolls io.gitlab.floodlight.Presenter org.hlwd.sonofman`
+`sudo flatpak install flathub life.bolls.bolls io.gitlab.floodlight.Presenter org.hlwd.sonofman -y`
