@@ -8,7 +8,7 @@ Versioning uses a combination of the Ubuntu ISO base that is used to build the r
 - Fixed dark mode wallpaper bug
 
 ### <span style="color: black;">Added</span>
-- Added [Parental Controls](https://github.com/jeremehancock/ubuntu-ce-parental-controls)
+- Added [UbuntuCE Parental Controls](https://github.com/jeremehancock/ubuntu-ce-parental-controls#readme)
 - Added [Timekpr-nExT](https://mjasnik.gitlab.io/timekpr-next/)
 - Added [FreeShow](https://freeshow.app)
 - Added customized UbuntuCE installer (English Only)

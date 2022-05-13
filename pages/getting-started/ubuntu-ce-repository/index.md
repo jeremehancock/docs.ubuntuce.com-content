@@ -7,7 +7,7 @@ UbuntuCE utilizes its own repository for the UbuntuCE specific packages.
 - [UbuntuCE Wallpapers](https://github.com/jeremehancock/ubuntu-ce-wallpapers#readme)
 - [DNS Minder](https://github.com/jeremehancock/dnsminder#readme)
 - [Host Minder](https://github.com/jeremehancock/hostminder#readme)
-- [Parental Controls](https://github.com/jeremehancock/ubuntu-ce-parental-controls#readme)
+- [UbuntuCE Parental Controls](https://github.com/jeremehancock/ubuntu-ce-parental-controls#readme)
 - [Presenter by WorshipTools](https://github.com/jeremehancock/presenter-by-worship-tools#readme)
 - [FreeShow](https://freeshow.app)
 
