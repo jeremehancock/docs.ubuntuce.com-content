@@ -51,7 +51,7 @@ DNS Minder allows you to enable [CleanBrowsing](https://cleanbrowsing.org/), [Op
 
 **Configure UbuntuCE Login Branding**
 
-`git clone https://github.com/jeremehancock/ubuntu-ce-logos.git && sudo cp ubuntu-ce-logos/usr/share/plymouth/ubuntu-logo.png /usr/share/plymouth/ubuntuce-logo.png && sudo printf "[org.gnome.login-screen]\nlogo='/usr/share/plymouth/ubuntuce-logo.png'" | sudo tee /usr/share/glib-2.0/schemas/90_ubuntu-settings.gschema.override && rm -rf ubuntu-ce-logos && sudo glib-compile-schemas /usr/share/glib-2.0/schemas/`
+`sudo apt install git -y && git clone https://github.com/jeremehancock/ubuntu-ce-logos.git && sudo cp ubuntu-ce-logos/usr/share/plymouth/ubuntu-logo.png /usr/share/plymouth/ubuntuce-logo.png && sudo printf "[org.gnome.login-screen]\nlogo='/usr/share/plymouth/ubuntuce-logo.png'" | sudo tee /usr/share/glib-2.0/schemas/90_ubuntu-settings.gschema.override && rm -rf ubuntu-ce-logos && sudo glib-compile-schemas /usr/share/glib-2.0/schemas/`
 
 *Note: You will need to reboot for Plymouth Theme and UbuntuCE Login Branding to take effect*
 
