@@ -3,7 +3,9 @@
 UbuntuCE utilizes its own repository for the UbuntuCE specific packages.
 
 ### Including:
-- [UbuntuCE Welcome](https://github.com/jeremehancock/ubuntu-ce-welcome#readme)
+- [UbuntuCE Greeter](https://github.com/jeremehancock/ubuntu-ce-welcome#readme)
+- [UbuntuCE Software Center](https://github.com/jeremehancock/ubuntu-ce-software-center#readme)
+- [UbuntuCE Branding](https://github.com/jeremehancock/ubuntu-ce-branding#readme)
 - [UbuntuCE Wallpapers](https://github.com/jeremehancock/ubuntu-ce-wallpapers#readme)
 - [DNS Minder](https://github.com/jeremehancock/dnsminder#readme)
 - [Host Minder](https://github.com/jeremehancock/hostminder#readme)
