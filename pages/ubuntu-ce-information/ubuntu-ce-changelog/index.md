@@ -2,6 +2,18 @@
 
 Versioning uses a combination of the Ubuntu ISO base that is used to build the release and the date of the build followed by a number. The trailing number is used if there is more than one build on the same day.
 
+## [22.04.0-2022.05.22.0] - 2022-05-22
+### <span style="color: black;">Changed</span>
+- Updated all UbuntuCE apps to the latest versions
+- Updated neofetch config to include Daily Bible verse
+- Removed OpenLP due to issues running on latest Ubuntu LTS. Plan to add it into the new UbuntuCE Software Center once bug is resolved.
+- Changed which apps are pre-installed since the new UbuntuCE Software Center will allow easy installations. This will trim the ISO size quite a bit.
+
+### <span style="color: black;">Added</span>
+- Added [UbuntuCE Software Center](https://github.com/jeremehancock/ubuntu-ce-software-center#readme)
+- Added [UbuntuCE Branding](https://github.com/jeremehancock/ubuntu-ce-branding#readme)
+- Added the Catholic Public Domain Version (CPDV)
+
 ## [22.04.0-2022.05.12.0] - 2022-05-12
 ### <span style="color: black;">Changed</span>
 - Updated all UbuntuCE apps to the latest versions
