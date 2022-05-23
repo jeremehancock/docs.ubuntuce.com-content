@@ -35,46 +35,8 @@ UbuntuCE utilizes its own repository for the UbuntuCE specific packages.
 
 `sudo apt update`
 
-**Install UbuntuCE Packages**
+**Install UbuntuCE Software Center**
 
-`sudo apt install dnsminder hostminder ubuntu-ce-parental-controls ubuntu-ce-wallpapers ubuntu-ce-welcome presenter-by-worship-tools freeshow -y`
+`sudo apt install ubuntu-ce-software-center -y`
 
-**Setup Web Content Filtering**
-
-DNS Minder allows you to enable [CleanBrowsing](https://cleanbrowsing.org/), [OpenDNS FamilyShield](https://www.opendns.com/setupguide/#familyshield) , [1.1.1.1 for Families](https://blog.cloudflare.com/introducing-1-1-1-1-for-families/), or [AdGuard Family DNS](https://adguard-dns.io/en/public-dns.html).
-
-![DNS Minder](https://raw.githubusercontent.com/jeremehancock/docs.ubuntuce.com-content/main/pages/assets/images/dnsminder-job.png)
-
-**Configure UbuntuCE Plymouth Theme**
-
-`sudo apt install git -y && git clone https://github.com/jeremehancock/ubuntu-ce-plymouth-theme.git && cd ubuntu-ce-plymouth-theme && sudo cp -R ubuntuce /usr/share/plymouth/themes/ && sudo update-alternatives --install "/usr/share/plymouth/themes/default.plymouth" "default.plymouth" "/usr/share/plymouth/themes/ubuntuce/ubuntuce.plymouth" 160 && sudo update-alternatives --auto default.plymouth && sudo update-alternatives --config default.plymouth && sudo update-initramfs -uk all && cd .. && rm -rf ubuntu-ce-plymouth-theme`
-
-**Configure UbuntuCE Login Branding**
-
-`sudo apt install git -y && git clone https://github.com/jeremehancock/ubuntu-ce-logos.git && sudo cp ubuntu-ce-logos/usr/share/plymouth/ubuntu-logo.png /usr/share/plymouth/ubuntuce-logo.png && sudo printf "[org.gnome.login-screen]\nlogo='/usr/share/plymouth/ubuntuce-logo.png'" | sudo tee /usr/share/glib-2.0/schemas/90_ubuntu-settings.gschema.override && rm -rf ubuntu-ce-logos && sudo glib-compile-schemas /usr/share/glib-2.0/schemas/`
-
-*Note: You will need to reboot for Plymouth Theme and UbuntuCE Login Branding to take effect*
-
----
-
-**UbuntuCE also includes packages outside the UbuntuCE Repo. Use the instructions below to add these packages.**
-
----
-
-## Add Additional Packages included in UbuntuCE
-
-**Enable Universe/Multiverse Repos**
-
-`sudo add-apt-repository universe -y && sudo add-apt-repository multiverse -y`
-
-**Install Xiphos, BibleTime, Bibledit, Bible-KJV, Sword WEB, Sword KJC, OpenLP, and Timekpr-nExT**
-
-`sudo apt install xiphos bibletime sword-text-web sword-text-kjv bibledit python3-distutils default-jre libreoffice-java-common openlp bible-kjv timekpr-next -y`
-
-**Install Flatpak**
-
-`sudo apt install flatpak && sudo flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo`
-
-**Install Bolls Bible, Floodlight Presenter, and Son of Man**
-
-`sudo flatpak install flathub life.bolls.bolls io.gitlab.floodlight.Presenter org.hlwd.sonofman -y`
+The UbuntuCE Software Center will allow you to easily set up your system with the applications, and branding that comes with UbuntuCE.
