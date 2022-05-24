@@ -13,7 +13,6 @@ UbuntuCE utilizes its own repository for the UbuntuCE specific packages.
 - [Presenter by WorshipTools](https://github.com/jeremehancock/presenter-by-worship-tools#readme)
 - [FreeShow](https://freeshow.app)
 
-
 --- 
 
 **Already running Ubuntu 22.04? Use the instructions below to set up UbuntuCE.**
