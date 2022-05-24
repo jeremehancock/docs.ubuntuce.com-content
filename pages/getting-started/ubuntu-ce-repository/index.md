@@ -15,6 +15,12 @@ UbuntuCE utilizes its own repository for the UbuntuCE specific packages.
 
 --- 
 
+The UbuntuCE Software Center will allow you to easily set up your system with the applications, and branding that comes with UbuntuCE.
+
+![UbuntuCE Software Center](https://raw.githubusercontent.com/jeremehancock/docs.ubuntuce.com-content/main/pages/assets/images/ubuntu-ce-software-center-bible-study.png)
+
+---
+
 **Already running Ubuntu 22.04? Use the instructions below to set up UbuntuCE.**
 
 **Note:** *UbuntuCE only supports the latest LTS.* 
@@ -40,7 +46,3 @@ UbuntuCE utilizes its own repository for the UbuntuCE specific packages.
 **Install UbuntuCE Software Center**
 
 `sudo apt install ubuntu-ce-software-center -y`
-
-The UbuntuCE Software Center will allow you to easily set up your system with the applications, and branding that comes with UbuntuCE.
-
-![UbuntuCE Software Center](https://raw.githubusercontent.com/jeremehancock/docs.ubuntuce.com-content/main/pages/assets/images/ubuntu-ce-software-center-bible-study.png)
