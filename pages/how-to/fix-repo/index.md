@@ -10,6 +10,7 @@ We have put in some safeguards to prevent this from happening in the future.
 
 **Add UbuntuCE Repo Key**
 
+
 `wget https://job.ubuntuce.com/KEY.gpg && gpg --output ubuntuce.gpg --dearmor KEY.gpg && sudo mv ubuntuce.gpg /usr/share/keyrings/ && rm KEY.gpg`
 
 **Update Packages**
