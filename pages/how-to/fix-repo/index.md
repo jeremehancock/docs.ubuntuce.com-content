@@ -8,7 +8,7 @@ We have put in some safeguards to prevent this from happening in the future.
 
 ---
 
-## Add UbuntuCE Repo and Packages
+## Add UbuntuCE Repo
 
 **Add UbuntuCE Repo Key**
 
