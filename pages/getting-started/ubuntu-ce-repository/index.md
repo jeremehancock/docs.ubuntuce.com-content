@@ -1,4 +1,4 @@
-# Repository
+# UbuntuCE Repository & UbuntuCE Software Center
 
 UbuntuCE utilizes its own repository for the UbuntuCE specific packages.
 
@@ -15,7 +15,7 @@ UbuntuCE utilizes its own repository for the UbuntuCE specific packages.
 
 --- 
 
-**Already running Ubuntu 22.04? Use the instructions below to setup UbuntuCE.**
+**Already running Ubuntu 22.04? Use the instructions below to set up UbuntuCE.**
 
 **Note:** *UbuntuCE only supports the latest LTS.* 
 
@@ -23,7 +23,7 @@ UbuntuCE utilizes its own repository for the UbuntuCE specific packages.
 
 ---
 
-## Add UbuntuCE Repo and Packages
+## Add UbuntuCE Repo & UbuntuCE Software Center
 
 **Add UbuntuCE Repo Key**
 
