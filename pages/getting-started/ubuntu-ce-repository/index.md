@@ -1,4 +1,4 @@
-# UbuntuCE Software Center
+# UbuntuCE Software Center 
 
 UbuntuCE utilizes its own repository for the UbuntuCE specific packages.
 
