@@ -15,7 +15,7 @@ UbuntuCE utilizes its own repository for the UbuntuCE specific packages.
 
 --- 
 
-The UbuntuCE Software Center will allow you to easily set up your system with the applications, and branding that comes with UbuntuCE.
+The UbuntuCE Software Center will allow you to easily set up your system with the applications, and branding that comes with UbuntuCE. It will allow you to not only install the packages created specifically for UbuntuCE, but also many other software packages that have been vetted for UbuntuCE.
 
 ![UbuntuCE Software Center](https://raw.githubusercontent.com/jeremehancock/docs.ubuntuce.com-content/main/pages/assets/images/ubuntu-ce-software-center-bible-study.png)
 
