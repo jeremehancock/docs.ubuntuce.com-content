@@ -1,5 +1,5 @@
 # Download
 
-Get the latest UbuntuCE at the link below.
+Get the latest UbuntuCE release at the link below.
 
 ### [UbuntuCE Downloads](https://ubuntuce.com/#download)

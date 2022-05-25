@@ -1,6 +1,8 @@
 # Fix Repository Issues
 
-Unfortunately, during development of new features for UbuntuCE the UbuntuCE Repository GPG key had to be replaced. This will cause issues when updating software.
+Unfortunately, during development of new features for UbuntuCE the UbuntuCE Repository GPG key had to be replaced.
+
+This will cause issues when updating software.
 
 The fix is easy. Simply re-run the command below and it should fix the issue.
 

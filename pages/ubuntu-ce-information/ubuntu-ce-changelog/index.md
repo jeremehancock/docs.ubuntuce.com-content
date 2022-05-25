@@ -2,6 +2,10 @@
 
 Versioning uses a combination of the Ubuntu ISO base that is used to build the release and the date of the build followed by a number. The trailing number is used if there is more than one build on the same day.
 
+## [22.04.0-2022.05.24.0] - 2022-05-24
+### <span style="color: black;">Changed</span>
+- Updated all UbuntuCE apps to the latest versions
+
 ## [22.04.0-2022.05.22.0] - 2022-05-22
 ### <span style="color: black;">Changed</span>
 - Updated all UbuntuCE apps to the latest versions
