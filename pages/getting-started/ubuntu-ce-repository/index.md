@@ -12,6 +12,9 @@ UbuntuCE utilizes its own repository for the UbuntuCE specific packages.
 - [UbuntuCE Parental Controls](https://github.com/jeremehancock/ubuntu-ce-parental-controls#readme)
 - [Presenter by WorshipTools](https://github.com/jeremehancock/presenter-by-worship-tools#readme)
 - [FreeShow](https://freeshow.app)
+- [Net Bible](https://github.com/jeremehancock/netbible#readme)
+- [BibleWebApp](https://github.com/jeremehancock/bible-web-app#readme)
+- [Blue Letter Bible](https://github.com/jeremehancock/blue-letter-bible#readme)
 
 --- 
 
