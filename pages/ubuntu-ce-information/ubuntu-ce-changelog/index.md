@@ -7,6 +7,7 @@ Versioning uses a combination of the Ubuntu ISO base that is used to build the r
 - Updated all UbuntuCE apps to the latest versions
 - Fixed minor bug with Host Minder button in UbuntuCE Greeter
 
+
 ## [22.04.0-2022.05.24.0] - 2022-05-24
 ### <span style="color: black;">Changed</span>
 - Updated all UbuntuCE apps to the latest versions
